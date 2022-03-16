@@ -6,14 +6,14 @@ import java.util.Date;
  */
 
 /*
-*Creamos la clase Barco la cual implementa la clase inteface Sonido
+*Creamos la clase Goma la cual implementa la clase inteface Sonido
  */
-public class Barco implements Sonido {
+public class Goma implements Sonido {
 
     //ATRIBUTES
     /*
     *Añadimos los atributos de la clase mas la clase Motor 
-    *Ya que la clase Barco esta compuesta por motor
+    *Ya que la clase Goma esta compuesta por motor
      */
     private String Nombre;
     private Date fechaContruccion;
@@ -61,17 +61,17 @@ public class Barco implements Sonido {
      */
     @Override
     public String toString() {
-        return "Barco{" + "Nombre=" + Nombre + ", fechaContruccion=" + fechaContruccion + ", numCamarotes=" + numCamarotes + ", motor=" + motor + '}';
+        return "Goma{" + "Nombre=" + Nombre + ", fechaContruccion=" + fechaContruccion + ", numCamarotes=" + numCamarotes + ", motor=" + motor + '}';
     }
 
     //CONTRUCTOR
     /*
     * Añadimos los constructores
      */
-    public Barco() {
+    public Goma() {
     }
 
-    public Barco(String Nombre, Date fechaContruccion, int numCamarotes) {
+    public Goma(String Nombre, Date fechaContruccion, int numCamarotes) {
         this.Nombre = Nombre;
         this.fechaContruccion = fechaContruccion;
         this.numCamarotes = numCamarotes;
