@@ -7,7 +7,7 @@
 *Creamos la clase Mascota la cual es abstracta
 *Ademas implementa la interfaz Sonido
  */
-abstract class Mascota implements Sonido {
+abstract class Animal implements Sonido {
 
     //ATRIBUTES
     /*
@@ -41,17 +41,17 @@ abstract class Mascota implements Sonido {
      */
     @Override
     public String toString() {
-        return "Mascota{" + "nombre=" + nombre + ", edad=" + edad + '}';
+        return "Animal{" + "nombre=" + nombre + ", edad=" + edad + '}';
     }
 
     //CONTRUCTOR
     /*
     * Creamos los constructores
      */
-    public Mascota() {
+    public Animal() {
     }
 
-    public Mascota(String nombre, int edad) {
+    public Animal(String nombre, int edad) {
         this.nombre = nombre;
         this.edad = edad;
     }
