@@ -11,5 +11,5 @@ public interface Sonido {
     /*
     *Metodo sonido que no devuelve nada
      */
-    public abstract String sonido();
+    public abstract String onomatopeya();
 }
