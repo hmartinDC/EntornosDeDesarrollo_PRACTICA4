@@ -31,7 +31,7 @@ referencia la Practica 4.
 5. Creamos una nueva rama llamada: main. Con el comando git branch –M
 6. Subimos los archivos a la rama main
 
-![Drag Racing](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/1refac.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/1refac.png)
 
 ## Rama pre y actualizaciones del main con las refactorizaciones.
 
