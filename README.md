@@ -30,8 +30,7 @@ referencia la Practica 4.
 4. Hacemos un commit para añadir los cambios en el repositorio local
 5. Creamos una nueva rama llamada: main. Con el comando git branch –M
 6. Subimos los archivos a la rama main
-
-![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/1refac.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/GIT_inicio.png)
 
 ## Rama pre y actualizaciones del main con las refactorizaciones.
 
