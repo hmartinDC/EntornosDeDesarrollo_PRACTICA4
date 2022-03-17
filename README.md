@@ -43,8 +43,17 @@ diferentes versiones al pre y actualizando el main.
 Para ello iremos cambiando de rama con: git checkout.
 
 
-
-
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/change_branch.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/1refac_code.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/1refac.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/merge.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/2refac.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/merge2.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/push3.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/3refac.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/merge3.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/push3.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/4refac_update.png)
 
 
 
@@ -56,3 +65,10 @@ las operaciones que hemos hechos y con la descripción de la operación de modif
 
 
 Screen de cómo se crea y añade el texto en el tag.
+
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/tags0.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/tags1.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/tag2.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/tag3.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/tag_just.png)
+![](https://github.com/hmartinDC/Practica4/blob/main/Imagenes/tag_write.png)
