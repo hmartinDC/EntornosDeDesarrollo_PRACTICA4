@@ -3,13 +3,13 @@
  */
 
 /*
-*Creamos la clase Perro la cual es hija de la clase Mascota
+*Creamos la clase Licantropo la cual es hija de la clase Mascota
 */
-public class Perro extends Mascota{
+public class Licantropo extends Mascota{
     //ATRIBUTE
     /*
     * Añadimos el atributo de la clase
-    */
+    *//
     private String raza;
     
     //METHODS
@@ -28,7 +28,7 @@ public class Perro extends Mascota{
 
     @Override
     public String toString() {
-        return "Perro{" + "raza=" + raza + '}';
+        return "Licantropo{" + "raza=" + raza + '}';
     }
     
     /*
@@ -37,10 +37,10 @@ public class Perro extends Mascota{
   
     //CONSTRUCTOR
 
-    public Perro() {
+    public Licantropo() {
     }
 
-    public Perro(String nombre, int edad) {
+    public Licantropo(String nombre, int edad) {
         super(nombre, edad);
     }
 
